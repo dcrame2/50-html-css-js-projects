@@ -56,5 +56,6 @@ h3 {
 }
 
 .btn:focus {
+  
   outline: 0;
 }
